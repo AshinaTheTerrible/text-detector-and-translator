@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "993474487203",
+    "project_id": "text-recognition-bbb79",
+    "storage_bucket": "text-recognition-bbb79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993474487203:android:4b6bf8396500951f32f016",
+        "android_client_info": {
+          "package_name": "com.example.textdetectorandtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993474487203-a7ah7786vcm7mmdtcst5sosmcc1bg6pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX_gYcF0wdSesoGpFnKY7fDu1B-Fo_M2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993474487203-a7ah7786vcm7mmdtcst5sosmcc1bg6pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993474487203:android:9d1fe9b84d60919d32f016",
+        "android_client_info": {
+          "package_name": "com.example.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993474487203-a7ah7786vcm7mmdtcst5sosmcc1bg6pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX_gYcF0wdSesoGpFnKY7fDu1B-Fo_M2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993474487203-a7ah7786vcm7mmdtcst5sosmcc1bg6pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993474487203:android:01ade1d485714ea632f016",
+        "android_client_info": {
+          "package_name": "com.example.translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993474487203-a7ah7786vcm7mmdtcst5sosmcc1bg6pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX_gYcF0wdSesoGpFnKY7fDu1B-Fo_M2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993474487203-a7ah7786vcm7mmdtcst5sosmcc1bg6pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
