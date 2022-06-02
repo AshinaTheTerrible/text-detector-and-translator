@@ -1,7 +1,7 @@
 # TextDetectorAndTranslator
 This is an android project I created with Android Studio and Firebase
 
-I have created this project for my College homework. I have used Firebase's Text Detector and Translator utilities to have an application that can read pictures and translate them into the desired language.
+I have created this project for my College homework. I used Firebase's Text Detector and Translator utilities to have an application that can read pictures and translate them into the desired language.
 //Firebase ve Android Studio kullanarak hazırladığım fotoğraflardan metin okuyabilen ve onu çeviriye dahip edip başka dile çevirebilen bir program.
 
 ## About
